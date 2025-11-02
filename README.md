@@ -252,7 +252,7 @@ Most organizations only think about breach response AFTER a breach happens. I de
 
 ---
 
-## 🔐 Technical Security Controls
+## Technical Security Controls
 
 ### Encryption Strategy
 
@@ -326,7 +326,7 @@ Healthcare is unique because **access needs change constantly** (new referrals, 
 
 ---
 
-## 🚨 Privacy Risk Assessment & Mitigation
+## Privacy Risk Assessment & Mitigation
 
 ### Risk Assessment Methodology
 
