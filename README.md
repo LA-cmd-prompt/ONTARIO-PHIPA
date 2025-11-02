@@ -21,8 +21,6 @@ This project demonstrates deep expertise in Ontario health privacy regulations, 
   <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/PHIPA_5.JPEG" width="800" 
     <figure style="text-align:center">
   <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/PHIPA_6.JPEG" width="800" 
-   <figure style="text-align:center">
-  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/PHIPA_7.JPEG" width="800"
 
 ### Why PHIPA Matters in Ontario Healthcare
 
