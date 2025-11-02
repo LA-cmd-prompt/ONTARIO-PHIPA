@@ -9,7 +9,20 @@ Ontario PHIPA
 This project demonstrates deep expertise in Ontario health privacy regulations, privacy-by-design principles, and the unique challenges of protecting personal health information (PHI) in a digital health environment.
 
 ---
-
+<figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/PHIPA_1.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/PHIPA_2.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/PHIPA_3.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/PHIPA_4.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/PHIPA_5.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/PHIPA_6.JPEG" width="800" 
+   <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/PHIPA_7.JPEG" width="800"
 
 ### Why PHIPA Matters in Ontario Healthcare
 
@@ -686,21 +699,6 @@ If you're developing health apps or EHR systems, this demonstrates:
 - [OntarioMD - EMR Privacy Guidelines](https://www.ontariomd.ca/)
 
 ---
-
-## ⚖️ Legal Disclaimer
-
-This project is a **demonstration of privacy expertise** and represents my understanding of PHIPA requirements based on professional experience and research. It should not be considered:
-- Legal advice (consult a qualified health law attorney)
-- Medical advice (consult regulated health professionals)
-- A guarantee of compliance (every organization's situation is unique)
-- A substitute for professional privacy assessment
-
-Healthcare organizations implementing similar systems should:
-- Conduct their own Privacy Impact Assessment
-- Engage qualified privacy counsel
-- Consult with their professional regulatory college
-- Obtain approval from their Privacy Officer
-- Complete IPC notification if required
 
 ---
 
